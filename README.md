@@ -94,15 +94,16 @@ Evaluation Metrics:
 
 ##  Project Structure
 
-```
-House-pricing-prediction/
-│
-├── House_Price_Prediction.ipynb
-├── Housing.csv
-├── README.md
-```
+## 📂 Repository Structure
 
----
+```text
+House-pricing-prediction/
+
+├── .gitattributes
+├── BHP.csv
+├── House_pricing_predictions.ipynb
+└── README.md
+```
 
 ## Author
 
